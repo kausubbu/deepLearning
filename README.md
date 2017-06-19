@@ -8,3 +8,5 @@ This is Andrew Ng's (Stanford) tutorial on Deep Learning. It has completed code 
 Source: 
 http://deeplearning.stanford.edu/tutorial/ (new) 
 http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial (old)
+
+- This is test sentence
